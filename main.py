@@ -7,6 +7,7 @@ def welcome():
 def execute()
 	print('executing:')
 	click()
-  welcome()
+	welcome()
+  
 
 execute()
